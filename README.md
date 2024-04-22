@@ -1,10 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Cátia!</h1>
 <h3 align="left">I'm mobile developer</h3>
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages:</h3>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
